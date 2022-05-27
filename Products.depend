@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653662685 source:c:\users\radop\onedrive\documents\uni\c\products\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

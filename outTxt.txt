@@ -1,0 +1,12 @@
+Name -> Cheese
+ID -> 103
+Expire Date -> 2022.03.04
+Price -> 12
+Name -> Bread
+ID -> 101
+Expire Date -> 2022.05.27
+Price -> 1
+Name -> Oil
+ID -> 102
+Expire Date -> 2021.11.27
+Price -> 4
